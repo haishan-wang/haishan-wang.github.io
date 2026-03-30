@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Haishan Wang"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student of Aalto University and ELLIS Institute Finland"
+  bio              : "PhD student,<br> Aalto University and ELLIS Institute Finland"
   location         : "Espoo, Finland"
   employer         : "Aalto University"
   uri              : # URL
@@ -310,7 +310,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
@@ -319,7 +319,7 @@ whitelist:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
