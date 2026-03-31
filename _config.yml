@@ -23,7 +23,7 @@ repository               : "haishan-wang/haishan-wang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_espoo.jpg"
   name             : "Haishan Wang"
   pronouns         : # example: "she/her"  
   bio              : "PhD student,<br> Aalto University and ELLIS Institute Finland"
